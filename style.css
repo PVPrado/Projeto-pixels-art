@@ -20,8 +20,17 @@
 
 .color {
   display: inline-block;
-  width:30px;
-  height:30px;
+  width:45px;
+  height:45px;
   border: 1px solid;
   border-color: black;
+}
+
+.pixel {
+  background-color: white;
+  width: 40px;
+  height: 40px;
+  border: 1px solid;
+  border-color: black;
+  display: inline-block;
 }
