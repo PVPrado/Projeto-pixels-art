@@ -1,6 +1,6 @@
 # Projeto-pixels-art
 
-Esse foi meu primeiro projeto como desenvolvedor, apenas um html, css e js para colocar pixels.
+Esse foi meu primeiro projeto como desenvolvedor, apenas um html, css e javascript para colocar pixels.
 
 # Visão Geral
 
