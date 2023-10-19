@@ -1,4 +1,4 @@
-# Projeto-pixels-rt
+# Projeto-pixels-art
 
 Esse foi meu primeiro projeto como desenvolvedor, apenas uma html, css e js para colocar pixels.
 
