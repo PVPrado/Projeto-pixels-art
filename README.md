@@ -12,7 +12,9 @@ A funcionalidade do projeto é a diversão e a arte, nele você pode colorir pix
 
 # Ferramentas
 
-Html, css e javascript.
+- Html
+- Css
+- Javascript.
 
 # Instalação
 
