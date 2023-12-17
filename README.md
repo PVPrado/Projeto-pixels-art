@@ -38,7 +38,7 @@ Instale todas as dependências com o comando:
 npm install
 ```
 
-Após a instalação basta clicar com botão direito no arquivo index.hltm e selecionar "Open with Live Server" (Abrir com o Live Server) se você tiver a extensão Live Server instalada no VS Code. Caso você não tenha a extensão Live Server instalada, você pode simplesmente clicar com o botão direito no arquivo HTML e selecionar "Open with Default Browser" (Abrir com o Navegador Padrão). Isso abrirá o arquivo HTML no navegador padrão do seu sistema operacional.
+Após a instalação basta clicar com botão direito no arquivo index.html e selecionar "Open with Live Server" (Abrir com o Live Server) se você tiver a extensão Live Server instalada no VS Code. Caso você não tenha a extensão Live Server instalada, você pode simplesmente clicar com o botão direito no arquivo HTML e selecionar "Open with Default Browser" (Abrir com o Navegador Padrão). Isso abrirá o arquivo HTML no navegador padrão do seu sistema operacional.
 
 # Como usar
 
